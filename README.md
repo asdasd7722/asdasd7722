@@ -35,6 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=asdasd7722&show_icons=true&theme=radical">
   <br><br>
 
-  <p>🏆 Baekjoon solved rank 🏆</p>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdasd7722)](https://solved.ac/hyuntae9912)
+  <p>🏆 Baekjoon solved rank </p>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdasd7722)](https://solved.ac/asdasd7722)
 </div>
