@@ -1,16 +1,16 @@
 <div>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SangJun's%20Github&fontSize=35" />	
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SangJun's%20Github&fontSize=35" />	
 </div>
 <div>
   I wanna be a BackEnd developer
 </div>
 <br><br>
 <div>
-	<p>✨ Skills </p>
+  <p>✨ Skills </p>
 </div>
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -19,23 +19,22 @@
 </div>
 <br>
 <div>
-	<p>🛠 Tools </p>
+  <p>🛠 Tools </p>
 </div>
 <div>
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
-<br>
+<br><br>
 <div>
-	<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asdasd7722&layout=compact&theme=radical">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=asdasd7722&show_icons=true&theme=radical">
   <br><br>
 
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdasd7722)](https://solved.ac/hyuntae9912)
+  <p>🏆 Baekjoon solved rank 🏆</p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdasd7722)](https://solved.ac/hyuntae9912)
 </div>
